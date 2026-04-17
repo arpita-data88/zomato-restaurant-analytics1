@@ -35,8 +35,7 @@ would actually care about.
 ---
 
 ## 🔍 Key Insights
-- 🏆 **Basavanagudi dominates** — MTR (4.9★) and Vidyarthi Bhavan (4.7★) 
-  outperform all premium-area restaurants
+- 🏆 South Bengaluru's heritage belt wins — Vidyarthi Bhavan (Basavanagudi, 4.7★), MTR (Lalbagh Road, 4.9★) and CTR      (Malleshwaram, 4.8★) outperform all newer, trendier areas
 - 💰 **Price ≠ Quality** — correlation between cost and rating is near zero (-0.12)
 - 🎯 **Best value find:** Brahmin's Coffee Bar — ₹80 for two, 4.6 stars
 - 📱 **Offline-only spots rate higher** on average (4.45 vs 4.27)
